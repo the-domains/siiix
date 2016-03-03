@@ -1,0 +1,14 @@
+layout_spectrum: 0.5483351
+color:
+  saturation: 0.1706087
+  lightness: 0.7796178
+  brandStrength: 0.008491239
+  brandColors:
+    - '#17202F'
+    - '#BDD0E0'
+    - '#435265'
+    - '#7F91A3'
+    - '#FFFFE9'
+  rhythmicContrast: 0.9172612
+typography_spectrum: 0.5214823
+name: SiiiX
