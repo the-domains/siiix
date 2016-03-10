@@ -1,28 +1,40 @@
-name: SiiiX
 favicon: null
-layout_spectrum: 0.5483351
-typography_spectrum: 0.5214823
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: "<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-74671536-1', 'auto');   ga('send', 'pageview');  </script>"
-  facebook: null
-  twitter: null
+name: SiiiX
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1706087
+  brandStrength: 0.008491239
+  rhythmicContrast: 0.9172612
   brandColors:
     - '#17202F'
     - '#BDD0E0'
     - '#435265'
     - '#7F91A3'
     - '#FFFFE9'
-  brandStrength: 0.008491239
   lightness: 0.7796178
-  saturation: 0.1706087
-  rhythmicContrast: 0.9172612
-purpose: []
+typography_spectrum: 0.5214823
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: "<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-74671536-1', 'auto');   ga('send', 'pageview');  </script>"
+  facebook: null
