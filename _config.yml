@@ -1,4 +1,6 @@
 typography_spectrum: 0.5214823
+content_rating:
+  adult: false
 color:
   saturation: 0.1706087
   brandStrength: 0.008491239
