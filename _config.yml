@@ -1,5 +1,6 @@
-layout_spectrum: 0.7965306928381324
 typography_spectrum: 0.4485883079469204
+content_rating:
+  adult: false
 color:
   saturation: 0.903445178642869
   brandStrength: 0.07833858276717365
@@ -11,12 +12,11 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
   lightness: 0.2936827971134335
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7965306928381324
 analytics:
   twitter: null
   google: >-
@@ -40,6 +40,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Model S Model 3 Model X
+title: SiiiX
 description: Electric Revolution
 purpose: []
